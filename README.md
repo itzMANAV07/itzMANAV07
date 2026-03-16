@@ -16,11 +16,11 @@
 - 📍 **Based in** — India
 - 🎓 **Education** — Computer Science & Engineering
 - 💼 **Status** — Student | Aspiring Developer
-- 🔐 **Passion** — Cybersecurity & AI-powered Solutions
+- 🔐 **Passion** — Turning Ideas into AI-Powered Products
 - 🏆 **Highlight** — Solo Hackathon Contestant
-- 🌱 **Currently Learning** — Full-Stack Dev · AI Tools · AWS Cloud
-- 🎯 **2025 Goal** — Build impactful real-world projects
-- 💡 **Interests** — Web Dev · AI/ML · Cloud · Security
+- 🌱 **Currently Learning** — Vibe Coding · AI Tools · AWS Cloud
+- 🎯 **2026 Goal** — Build impactful real-world projects
+- 💡 **Interests** — AI Tools · Web Applications · Cloud · Open Source
 - ⚡ **Fun Fact** — I turn caffeine and ideas into code
 
 ---
