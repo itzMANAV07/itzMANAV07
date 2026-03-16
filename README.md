@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey+Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hey+Everyone!&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
 <h1 align="center">Hi, I'm Manav</h1>
@@ -12,19 +12,16 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-```yaml
-👤  Name        : Manav
-📍  Based in    : India
-🎓  Education   : Computer Science & Engineering
-💼  Status      : Student | Aspiring Developer
-🔐  Passion     : Cybersecurity & AI-powered Solutions
-🏆  Highlight   : Solo Hackathon Contestant
-🌱  Learning    : Full-Stack Dev · AI Tools · AWS Cloud
-🎯  2025 Goal   : Build impactful real-world projects
-💡  Interests   : Web Dev · AI/ML · Cloud · Security
-⚡  Fun Fact    : I turn caffeine and ideas into code
-```
+- 👤 **Name** — Manav
+- 📍 **Based in** — India
+- 🎓 **Education** — Computer Science & Engineering
+- 💼 **Status** — Student | Aspiring Developer
+- 🔐 **Passion** — Cybersecurity & AI-powered Solutions
+- 🏆 **Highlight** — Solo Hackathon Contestant
+- 🌱 **Currently Learning** — Full-Stack Dev · AI Tools · AWS Cloud
+- 🎯 **2025 Goal** — Build impactful real-world projects
+- 💡 **Interests** — Web Dev · AI/ML · Cloud · Security
+- ⚡ **Fun Fact** — I turn caffeine and ideas into code
 
 ---
 
