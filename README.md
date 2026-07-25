@@ -56,7 +56,7 @@
   <img src="https://streak-stats.demolab.com/?user=itzmanav07&theme=tokyonight&hide_border=true" alt="itzmanav07 streak" />
 </p>
 
-<!-- Note: If any card above still shows broken, GitHub's stats services occasionally rate-limit or go down. Give it a few minutes and refresh, or see the fallback options at the bottom of this file. -->
+
 
 ---
 
