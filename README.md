@@ -58,7 +58,9 @@
 
 <!-- Note: If any card above still shows broken, GitHub's stats services occasionally rate-limit or go down. Give it a few minutes and refresh, or see the fallback options at the bottom of this file. -->
 
+---
 
+### 🔗 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/manav-476733385/" target="_blank">
