@@ -58,55 +58,7 @@
 
 <!-- Note: If any card above still shows broken, GitHub's stats services occasionally rate-limit or go down. Give it a few minutes and refresh, or see the fallback options at the bottom of this file. -->
 
----
 
-### 📈 Activity Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/itzmanav07/itzmanav07/output/github-contribution-grid-snake.svg" alt="itzmanav07 activity graph" />
-</p>
-
-<!--
-ACTIVITY GRAPH SETUP (one-time, ~5 min):
-This snake graph is self-generated via GitHub Actions, so it won't randomly
-break like third-party stats services can.
-
-1. In your itzmanav07/itzmanav07 profile repo, create: .github/workflows/snake.yml
-2. Paste this workflow:
-
-   name: Generate Snake
-   on:
-     schedule:
-       - cron: "0 0 * * *"
-     workflow_dispatch: {}
-     push:
-       branches: [ main ]
-   jobs:
-     generate:
-       permissions:
-         contents: write
-       runs-on: ubuntu-latest
-       steps:
-         - uses: Platane/snk@v3
-           with:
-             github_user_name: itzmanav07
-             outputs: |
-               dist/github-contribution-grid-snake.svg
-               dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-         - uses: crazy-max/ghaction-github-pages@v4
-           with:
-             target_branch: output
-             build_dir: dist
-           env:
-             GITHUB_TOKEN: ${{ "{{ secrets.GITHUB_TOKEN }}" }}
-
-3. Commit it, then run the workflow once manually (Actions tab → Generate Snake → Run workflow).
-4. It'll create an "output" branch with the SVG — the image link above will then work.
--->
-
----
-
-### 🔗 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/manav-476733385/" target="_blank">
