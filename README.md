@@ -53,7 +53,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=itzmanav07&theme=tokyonight&hide_border=true" alt="itzmanav07 streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=itzmanav07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 
