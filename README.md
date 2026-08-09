@@ -3,15 +3,21 @@
 </p>
 
 <h1 align="center">Hi, I'm Manav 👋</h1>
-<h3 align="center">Aspiring Developer · Turning Ideas into AI-Powered Products</h3>
+<h3 align="center">Aspiring Developer · Building with Web Tech & Embedded Systems</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=itzmanav07&label=Profile%20views&color=0e75b6&style=flat" alt="itzmanav07" />
-  <a href="https://www.linkedin.com/in/manav-476733385/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/manav-476733385/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:myself.manav24@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say%20Hi-red?style=flat&logo=gmail" />
+  <a href="https://github.com/itzMANAV07" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:myself.manav07@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
@@ -21,25 +27,37 @@
 
 - 📍 **Based in** — India
 - 🎓 **Education** — Computer Science & Engineering
-- 💼 **Status** — Student | Aspiring Developer
-- 🌱 **Currently Learning** — Vibe Coding · AI Tools · AWS Cloud
-- 🎯 **2026 Goal** — Build impactful real-world projects
-- 💡 **Interests** — AI Tools · Web Applications · Cloud · Open Source
+- 💼 **Status** — Student · Aspiring Developer
+- 🌱 **Currently Learning** — JavaScript → React · DSA in Python
+- 🎯 **2026 Goal** — Ship a portfolio-worthy React project + place in a hackathon top tier
 - ⚡ **Fun Fact** — I turn caffeine and ideas into code
 
 ---
 
-### 🚀 Tools & Technologies 
+### 🚀 Tech Stack & Tools
+
+**Languages**
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
+
+**Web**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
+
+**Tools & Platforms**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
 </p>
 
 ---
@@ -55,37 +73,8 @@
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=itzmanav07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-
-
 ---
 
-### 🔗 Connect with Me
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/manav-476733385/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/itzmanav07" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:myself.manav24@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+  <sub>Thanks for stopping by — always open to connect and build something.</sub>
 </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
-
-<!--
-FALLBACK STATS OPTIONS (use if github-stats-extended.vercel.app ever goes down too):
-
-1. GitHub Readme Stats Action (self-generated, most reliable):
-   https://github.com/marketplace/actions/github-readme-stats-action
-   Runs on a schedule via GitHub Actions and commits a static SVG to your repo —
-   no external service dependency at all.
-
-2. Self-host on your own Vercel:
-   Fork https://github.com/anuraghazra/github-readme-stats and deploy your own
-   instance so you're never depending on someone else's rate limits.
--->
